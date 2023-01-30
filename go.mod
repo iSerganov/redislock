@@ -1,4 +1,4 @@
-module github.com/iSerganov/redislock/v1
+module github.com/iSerganov/redislock
 
 go 1.19
 
