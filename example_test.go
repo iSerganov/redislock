@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/iserganov/redislock/v1/lock"
+	"github.com/iSerganov/redislock/v1/lock"
 	"github.com/redis/go-redis/v9"
 )
 
